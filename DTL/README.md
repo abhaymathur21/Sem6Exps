@@ -1,0 +1,1 @@
+command to make a .exe file: pyinstaller --onefile integrated_tkinter_type.py
